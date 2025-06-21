@@ -1,0 +1,14 @@
+C:\Users\aquia\OneDrive\Escritorio\algoritmos\repasoPrimerCuatrimestre\bin\Debug\net9.0\repasoPrimerCuatrimestre.exe
+C:\Users\aquia\OneDrive\Escritorio\algoritmos\repasoPrimerCuatrimestre\bin\Debug\net9.0\repasoPrimerCuatrimestre.deps.json
+C:\Users\aquia\OneDrive\Escritorio\algoritmos\repasoPrimerCuatrimestre\bin\Debug\net9.0\repasoPrimerCuatrimestre.runtimeconfig.json
+C:\Users\aquia\OneDrive\Escritorio\algoritmos\repasoPrimerCuatrimestre\bin\Debug\net9.0\repasoPrimerCuatrimestre.dll
+C:\Users\aquia\OneDrive\Escritorio\algoritmos\repasoPrimerCuatrimestre\bin\Debug\net9.0\repasoPrimerCuatrimestre.pdb
+C:\Users\aquia\OneDrive\Escritorio\algoritmos\repasoPrimerCuatrimestre\obj\Debug\net9.0\repasoPrimerCuatrimestre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aquia\OneDrive\Escritorio\algoritmos\repasoPrimerCuatrimestre\obj\Debug\net9.0\repasoPrimerCuatrimestre.AssemblyInfoInputs.cache
+C:\Users\aquia\OneDrive\Escritorio\algoritmos\repasoPrimerCuatrimestre\obj\Debug\net9.0\repasoPrimerCuatrimestre.AssemblyInfo.cs
+C:\Users\aquia\OneDrive\Escritorio\algoritmos\repasoPrimerCuatrimestre\obj\Debug\net9.0\repasoPrimerCuatrimestre.csproj.CoreCompileInputs.cache
+C:\Users\aquia\OneDrive\Escritorio\algoritmos\repasoPrimerCuatrimestre\obj\Debug\net9.0\repasoPrimerCuatrimestre.dll
+C:\Users\aquia\OneDrive\Escritorio\algoritmos\repasoPrimerCuatrimestre\obj\Debug\net9.0\refint\repasoPrimerCuatrimestre.dll
+C:\Users\aquia\OneDrive\Escritorio\algoritmos\repasoPrimerCuatrimestre\obj\Debug\net9.0\repasoPrimerCuatrimestre.pdb
+C:\Users\aquia\OneDrive\Escritorio\algoritmos\repasoPrimerCuatrimestre\obj\Debug\net9.0\repasoPrimerCuatrimestre.genruntimeconfig.cache
+C:\Users\aquia\OneDrive\Escritorio\algoritmos\repasoPrimerCuatrimestre\obj\Debug\net9.0\ref\repasoPrimerCuatrimestre.dll
