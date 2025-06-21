@@ -12,3 +12,4 @@ C:\Users\aquia\OneDrive\Escritorio\algoritmos\repasoPrimerCuatrimestre\obj\Debug
 C:\Users\aquia\OneDrive\Escritorio\algoritmos\repasoPrimerCuatrimestre\obj\Debug\net9.0\repasoPrimerCuatrimestre.pdb
 C:\Users\aquia\OneDrive\Escritorio\algoritmos\repasoPrimerCuatrimestre\obj\Debug\net9.0\repasoPrimerCuatrimestre.genruntimeconfig.cache
 C:\Users\aquia\OneDrive\Escritorio\algoritmos\repasoPrimerCuatrimestre\obj\Debug\net9.0\ref\repasoPrimerCuatrimestre.dll
+C:\Users\aquia\OneDrive\Escritorio\algoritmos\repasoPrimerCuatrimestre\obj\Debug\net9.0\repasoPrimerCuatrimestre.sourcelink.json

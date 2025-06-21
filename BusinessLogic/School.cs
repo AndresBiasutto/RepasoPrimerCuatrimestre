@@ -33,6 +33,8 @@ public class School
         while (iterator < numberOfStudents)
         {
             Console.WriteLine($"Nombre: {Students[iterator].Name}.");
+            Console.WriteLine($"Edad: {Students[iterator].Age}.");
+
             iterator++;
         }
     }
