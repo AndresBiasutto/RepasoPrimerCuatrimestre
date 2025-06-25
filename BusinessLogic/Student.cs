@@ -6,7 +6,7 @@ public class Student : Human
     private int MathAnalysisGrade { get; set; }
     private int ProgrammingGrade { get; set; }
 
-    public Student(string name, int age, int algebraGrade, int mathAnalysisGrade, int programmingGrade) : base(name, age)
+    public Student(string name, int age, int algebraGrade= 0, int mathAnalysisGrade= 0, int programmingGrade= 0) : base(name, age)
     {
         this.AlgebraGrade = algebraGrade;
         this.MathAnalysisGrade = mathAnalysisGrade;
